@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>第二周练习</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .center{
+            margin: 0 auto;
+        }
+        .container{
+            width: 1200px;
+            height: 1700px;
+            font-family: Aria;
+        }
+        .hanggao{
+            font-size: 14px;
+            line-height: 24px;
+        }
+        h3{
+            font-size: 32px;
+            line-height: 22px;
+            font-weight: normal;
+            margin-top: 66px;
+            margin-bottom: 33px;
+        }
+        .hanggao>p{
+           
+            margin-bottom: 45px;  
+            margin-right: 222px;
+
+        }
+        div .tupian{
+            width: 1170px;
+            height: 300px;
+            margin-bottom: 43px;
+            margin-right: 214px;
+        }
+        .center .xiabianju{
+            margin-bottom: 42px;
+        }
+        .last{
+            width: 570px;
+            height: 280px;
+            margin-top: 90px;
+            border: 1px solid #333;
+            padding-left:30px;
+        
+        }
+        .last h3{
+            margin-top: 23px;
+        }
+        .last a{
+            font-size: 14px;
+            line-height: 28px;
+            text-decoration: none;
+            color: #333;
+        }
+
+
+        a:hover{
+            background-color: #c6e572;
+        }
+        .container>p{
+            line-height: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container center">
+            <h3>Company Profile</h3>
+            <p>Henan LIMING Heavy Industry Science and Technology Co. LTD which mainly manufacture large and medium-sized crushing and grinding equipments was founded in 1987. It is a modern joint-stock corporation with research, manufacturing and sales together. The Headquarter is located in HI-TECH Industry Development Zone of Zhengzhou and covers 80000 m ². Another workshop in Shangjie Industry Park covers 67000 m ². Over the past 30 years, our company adheres to modern scientific management system, precision manufacturing, pioneering and innovation. Now LIMING has become the leader in domestic and oversea machinery manufacturing industry.</p>
+            <img src="diyizhang.jpg" class="tupian" alt="">
+            <p>LIMING brings a large number of high-qualification talents together. Bai Yinghui, general research and development engineer, is a well-known expert in crushing and grinding area who won the youth medal of technology of the state council and receives special government allowance. LIMING owns an experienced service team, offering the customer free design and professional skill training and live guide for installation and debugging. The company's service networks have spread all over the country. Established client files, and mix the traditional door-to-door service with online service together, complementary the advantages. LIMING has won high recognition from clients.</p>
+            <p>The company mainly manufactures mobile crushers, stationary crushers, sand-making machines, grinding mills and complete plants that are widely used in mining, construction, highway, bridge, coal, chemical, metallurgy, refractory matter, etc. Product quality is life, and scientific innovation is motive power. LIMING got ISO international quality system certification, European Union CE certification and Russian GOST certification. The company has strong research and development strength and innovation.</p></div>
+                <div class="xiabianju">
+                   <img src="dierge.jpg" alt="">
+                   <img src="disange.jpg" alt="">
+                   <img src="disige.jpg" alt="">
+                </div>
+            <p class="">LIMING machinery research institute was founded in 2005 which is the most powerful comprehensive technological research institute in the domestic mining machinery industry and provides top scientific research platform for professional personnel. Up to now, LIMING has won 10 national patents, 24 national utility model patents and 3 provincial science and technology achievement awards. The company products remain the international leading level by strengthening international exchanges and cooperation all the time, and has won a wide range of international market, such as Russian, Azerbaijan, Kazakhstan, Turkey, Kuwait, South Africa, Egypt, Vietnam, Malaysia, India, Australia, Korea, Canada and European Union,etc.</p>
+            <p>Through 30 year's hard work, LIMING's staff built supremacy of credibility, excellent quality, service "LIMING" brand, and has made outstanding contributions to the development of mechanical manufacturing industry for China and the whole world.</p>
+        
+            <div class="last">
+            <h3>INDUSTRY NEWS <p> <a href="#">More ></a></p>  </h3>
+            <a href="#">> Belt conveyor made in Liming Heavy Industry is ideal conveying equipment for ...<a>
+            <a href="#">> YGM High pressure suspension mill can be applied to produce refractory materials<a>
+            <a href="#">> Impact Crusher made in Liming Heavy Industry can crush basalt</a>
+            <a href="#">> Something about wearing parts of impact crusher: impact plate and board hammer</a>
+            <a href="#">> High capacity limestone grinding mill creates incalculable market value</a>
+            <a href="#">> MTW European Trapezium Mill is applied in wollastonite powder processing</a>
+        </div>
+        
+
+
+    </div>
+</body>
+</html>
